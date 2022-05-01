@@ -1,2 +1,5 @@
 # terraform-vpc-module
-Terraform module for creating VPC along with 3 private/public Subnet and Network Gateway's for the VPC. We will be making 1 VPC with 6 Subnets: 3 Private and 3 Public, 1 NAT Gateways, 1 Internet Gateway, and 2 Route Tables.
+
+A Terraform module is a collection of standard configuration files in a dedicated directory. Terraform modules encapsulate groups of resources dedicated to one task, reducing the amount of code you have to develop for similar infrastructure components.
+
+Here,  I have setup the VPC provision as a module.
